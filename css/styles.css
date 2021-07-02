@@ -47,7 +47,7 @@ header .logo{
 }
 
 header .logo img {
-    width: 4.5%;
+    width: 32px;
 }
 
 header form{
@@ -255,9 +255,9 @@ header.header-active form{
     .gallary{
         column-count: 2;
     }
-    header .logo img {
+    /* header .logo img {
         width: 5%;
-    }
+    } */
 }
 
 
@@ -315,9 +315,9 @@ header.header-active form{
         column-count: 1;
     }
 
-    header .logo img {
+    /* header .logo img {
         width: 7%;
-    }
+    } */
 }
 
 
@@ -353,7 +353,7 @@ header.header-active form{
         padding: 2rem 1rem;
     }
 
-    header .logo img {
+    /* header .logo img {
         width: 15%;
-    }
+    } */
 }
