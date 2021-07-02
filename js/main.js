@@ -10,7 +10,7 @@ $(document).ready(function(){
         $('#menu').removeClass('fa-times');
         $('.navbar').removeClass('nav-toggle');
 
-        if($(window).scrollTop() > 60){
+        if($(window).scrollTop() > 550){
             $('header').addClass('header-active');
         }else{
             $('header').removeClass('header-active');

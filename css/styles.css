@@ -46,9 +46,8 @@ header .logo{
     margin-right: auto;
 }
 
-header .logo i {
-    padding: 0 .5rem;
-    color: var(--pink);
+header .logo img {
+    width: 3rem;
 }
 
 header form{
@@ -142,9 +141,10 @@ header.header-active form{
 
 .home{
     min-height: 100vh;
-    background: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7)), url(../images/00002.jpg) no-repeat;
+    background: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7)), url(../images/00009.jpeg) no-repeat;
     background-position: center;
     background-attachment: fixed;
+    background-size: cover;
     display: flex;
     align-items: center;
     justify-content: center;
