@@ -215,7 +215,7 @@ header.header-active form{
 
 
 .gallary{
-    column-count: 3;
+    column-count: 4;
     padding: 4rem 10%;
 }
 
@@ -253,7 +253,7 @@ header.header-active form{
     }
 
     .gallary{
-        column-count: 2;
+        column-count: 3;
     }
     /* header .logo img {
         width: 5%;
@@ -312,7 +312,7 @@ header.header-active form{
 
     
     .gallary{
-        column-count: 1;
+        column-count: 2;
     }
 
     /* header .logo img {
